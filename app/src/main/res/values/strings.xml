@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login_message">anda sudah login</string>
+</resources>
